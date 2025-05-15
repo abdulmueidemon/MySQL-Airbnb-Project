@@ -1,2 +1,2 @@
-# MySQL_Airbnb_Project
+# MySQL-Airbnb-Project
 SQL project analyzing Airbnb data
