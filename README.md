@@ -1,2 +1,2 @@
 # MySQL-Airbnb-Project
-SQL project analyzing Airbnb data
+This project analyzes an Airbnb dataset using MySQL to answer 20 key business questions. It explores booking patterns, pricing variations, guest satisfaction, and city-specific trends by querying five related tables (dim_city, dim_daytype, dim_personCapacity, dim_roomtype, and fact_data). The analysis includes identifying outliers in pricing and comparing booking characteristics across different room types and day types.
